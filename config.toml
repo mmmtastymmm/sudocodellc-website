@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://sudocodellc.github.io"
+
+compile_sass = true
+build_search_index = false
+
+taxonomies = [{ name = "tags", feed = true }]
+
+[markdown]
+render_emoji = true
+smart_punctuation = true
+
+
+[extra]
+date_format = "%d %b, %Y"
+
+[[extra.main_menu]]
+name = "Posts"
+url = "@/posts/_index.md"
+
+[[extra.main_menu]]
+name = "Contact"
+url = "@/contact.md"
