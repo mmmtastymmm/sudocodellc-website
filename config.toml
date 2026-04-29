@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://sudocodellc.github.io"
+base_url = "https://mmmtastymmm.github.io/sudocodellc-website"
+title = "Sudo Code LLC"
 
 compile_sass = true
 build_search_index = false

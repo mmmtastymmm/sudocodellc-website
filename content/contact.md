@@ -4,4 +4,6 @@ title = "Contact"
 
 Get in touch with us.
 
-- GitHub: [sudocodellc](https://github.com/sudocodellc)
+Email: [sudocodellc@gmail.com](mailto:sudocodellc@gmail.com)
+
+- GitHub: [mmmtastymmm](https://github.com/mmmtastymmm)
